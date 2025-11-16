@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAddSub
+!s110 1762664106
+!i10b 1
+!s100 X=XPWB89LozCNXZ0F2hhO3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IN_f@;Oe2PJWPEhS:V1?WG1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/User/Documents
+w1761458046
+8C:/Users/User/Documents/AddSubtractor.v
+FC:/Users/User/Documents/AddSubtractor.v
+!i122 20
+L0 1 12
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1762664106.000000
+!s107 C:/Users/User/Documents/AddSubtractor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Documents/AddSubtractor.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@add@sub
+vFullAdder
+!s110 1761457966
+!i10b 1
+!s100 ^PjcmQJOa:SgY`V[W=_`Y0
+R0
+IG5abChgLlY@c==_K@FdWD3
+R1
+R2
+w1761454550
+8C:/Users/User/Documents/FullAdder.v
+FC:/Users/User/Documents/FullAdder.v
+!i122 19
+L0 1 8
+R3
+r1
+!s85 0
+31
+!s108 1761457966.000000
+!s107 C:/Users/User/Documents/FullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Documents/FullAdder.v|
+!i113 1
+R4
+R5
+n@full@adder
+vHalfAdder
+!s110 1761454303
+!i10b 1
+!s100 g@WJCzCZ4CEKli2i^3gmE0
+R0
+IhbECP;@ZG=H7Bn:SXEAEc2
+R1
+R2
+w1761453436
+8C:/Users/User/Documents/Adder.v
+FC:/Users/User/Documents/Adder.v
+!i122 1
+L0 1 6
+R3
+r1
+!s85 0
+31
+!s108 1761454303.000000
+!s107 C:/Users/User/Documents/Adder.v|
+!s90 -reportprogress|300|-work|DEfault|-stats=none|C:/Users/User/Documents/Adder.v|
+!i113 1
+o-work DEfault
+R5
+n@half@adder
+vRippleAdder
+!s110 1761457829
+!i10b 1
+!s100 lXbBaDZE>Y4Uice9L^[JO1
+R0
+I7`4BcaNFLNU8JH:AK2lUJ0
+R1
+R2
+w1761457825
+8C:/Users/User/Documents/RippleAdder.v
+FC:/Users/User/Documents/RippleAdder.v
+!i122 18
+L0 1 11
+R3
+r1
+!s85 0
+31
+!s108 1761457829.000000
+!s107 C:/Users/User/Documents/RippleAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Documents/RippleAdder.v|
+!i113 1
+R4
+R5
+n@ripple@adder

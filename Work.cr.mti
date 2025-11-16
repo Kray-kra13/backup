@@ -1,0 +1,32 @@
+C:/Users/User/Documents/RippleAdder.v {1 {vlog -work work -stats=none C:/Users/User/Documents/RippleAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RippleAdder
+
+Top level modules:
+	RippleAdder
+
+} {} {}} C:/Users/User/Documents/Adder.v {1 {vlog -work DEfault -stats=none C:/Users/User/Documents/Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HalfAdder
+
+Top level modules:
+	HalfAdder
+
+} {} {}} C:/Users/User/Documents/AddSubtractor.v {0 {vlog -work work -stats=none C:/Users/User/Documents/AddSubtractor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AddSub
+-- Compiling module simulate
+** Error: C:/Users/User/Documents/AddSubtractor.v(21): (vlog-2730) Undefined variable: 'B4'.
+** Error: (vlog-13069) C:/Users/User/Documents/AddSubtractor.v(21): near "'b": syntax error, unexpected BASE.
+** Error: (vlog-13069) C:/Users/User/Documents/AddSubtractor.v(22): near "'b": syntax error, unexpected BASE.
+** Error: (vlog-13069) C:/Users/User/Documents/AddSubtractor.v(23): near "'b": syntax error, unexpected BASE.
+** Error: (vlog-13069) C:/Users/User/Documents/AddSubtractor.v(24): near "'b": syntax error, unexpected BASE.
+
+} {5.0 10.0} {}} C:/Users/User/Documents/FullAdder.v {1 {vlog -work work -stats=none C:/Users/User/Documents/FullAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FullAdder
+
+Top level modules:
+	FullAdder
+
+} {} {}}

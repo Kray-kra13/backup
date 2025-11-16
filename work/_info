@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/Documents
+vjk_ff
+Z1 !s110 1763270111
+!i10b 1
+!s100 H;COizU9zG9oU2nZ4Zeam2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7>2n4XR1=I9SHQ5e5m0=E3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1763270105
+Z5 8C:/Users/User/Documents/Synchronus_Counter.v
+Z6 FC:/Users/User/Documents/Synchronus_Counter.v
+!i122 10
+L0 1 25
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1763270110.000000
+Z9 !s107 C:/Users/User/Documents/Synchronus_Counter.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Documents/Synchronus_Counter.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vsynchronous_counter
+R1
+!i10b 1
+!s100 fJJMnCPlPz@2JEDRm0Yc@2
+R2
+I0ogF^W8F9b@S^cU:]cSH_0
+R3
+R0
+R4
+R5
+R6
+!i122 10
+L0 27 61
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vSynchronousUpDownCounter
+!s110 1762669883
+!i10b 1
+!s100 SKXDR<3Ni19OW@@4mB3Z]2
+R2
+ILD?^f=GoX0jXO=1d<l6nW1
+R3
+R0
+w1762666597
+R5
+R6
+!i122 9
+L0 2 18
+R7
+r1
+!s85 0
+31
+!s108 1762669883.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@synchronous@up@down@counter
+vtb_synchronous_counter
+R1
+!i10b 1
+!s100 1gk2OO^h8m:ME8QCE]WbC2
+R2
+If[>>B[7WgIIT@;I0_QL2R2
+R3
+R0
+R4
+R5
+R6
+!i122 10
+L0 90 47
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12

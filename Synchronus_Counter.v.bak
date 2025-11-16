@@ -1,0 +1,19 @@
+
+module SynchronousUpDownCounter(
+	input wire clk,  //clock input
+	input wire reset, // reset line
+	input wire enable, //enable line
+	input wire dir, //direction of counting 1 = count up, 0 =count down
+	output reg [3:0] count //counter  output 
+);
+	always @(posedge clk or posedge reset) begin
+		if(reset)
+			count <= 4'b0000;
+		else if(enable) begin
+			if(dir)
+				count <= count + 1'b1; //count up
+			else
+				count <= count - 1'b1; //count down
+		end
+	end
+endmodule
